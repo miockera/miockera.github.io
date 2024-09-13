@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miockera.github.io/sitemap.html.gz
+Sitemap: https://miockera.github.io/app/sitemap.html.gz
+Sitemap: https://miockera.github.io/assets/sitemap.html.gz
+Sitemap: https://miockera.github.io/css/sitemap.html.gz
+Sitemap: https://miockera.github.io/includes/sitemap.html.gz
+Sitemap: https://miockera.github.io/item/sitemap.html.gz
+Sitemap: https://miockera.github.io/src/sitemap.html.gz
